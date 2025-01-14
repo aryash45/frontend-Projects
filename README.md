@@ -1,4 +1,4 @@
-# frontend-Projects
+
 # Front End Projects
 
 Welcome to the **Front End Projects** repository! This collection showcases various frontend projects created to practice and demonstrate skills in web development using technologies such as HTML, CSS, JavaScript, and modern frontend frameworks.
